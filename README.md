@@ -1,2 +1,2 @@
 # 
-# "First Class Financial Instruments Shouldn't be a priviledge"
+# "First Class Financial Instruments Shouldn't be a Priviledge"
